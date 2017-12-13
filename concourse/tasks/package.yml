@@ -1,0 +1,19 @@
+platform: linux
+          image_resource:
+            type: docker-image
+            source:
+              repository: runmymind/docker-android-sdk
+              tag: latest
+              components:
+                - android-25
+                - build-tools-25.0.3
+                - extra-android-m2repository
+
+inputs:
+  - name: project-source
+
+outputs:
+  - name: package
+
+run:
+path: project-source/concourse/scripts/package.sh
