@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

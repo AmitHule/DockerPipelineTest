@@ -1,0 +1,7 @@
+#Wed Dec 13 11:32:36 IST 2017
+base.0=/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e5e88405632ee9780562a7ff5af2f0520fcec34a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90a0852991eab6632b2c5db178b65a6c2c63010a/classes.dex
+base.1=/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90a0852991eab6632b2c5db178b65a6c2c63010a
+file.0=/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e5e88405632ee9780562a7ff5af2f0520fcec34a/classes.dex

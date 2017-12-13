@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_eb9ff17c92d3674746408951c61f2eeed1d2cfae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/2ce0194496f33ff81f73d58b1287447df8436442/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6c097ba3e1a97a032cdeaf1e893c9956935e076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/a9ed29373e4dbae2d0ffa6995260d8c8c081c5ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f431904122f5f059de11bd35ae9ea6156ee228a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac1a9eda1f35079b79a9cf53f83044956c97b79d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/77ebef03e0c4e88cb7c852b0ecb736e19a336eb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a225456f3a966b93457169baea4e3998f7aabd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/aed462818311c35558483dc1dfaa34dc38acc531/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_202aad1f7527878397b2126dd185ec0bd0e94eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_fcd6ecb988a5b0c1453bb8bc4b96250c949f22ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_422ab9225ee0864159f77bade0b4a3d52239935f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45736fb5490d889f4d773d59875ecce299afa7fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_9d65c6a20c7bebc61390ade3ade2f3eee84f55d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.9/75a739e59d7ede2f7f425f369955bdd1c2ac122b/dagger-2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75a739e59d7ede2f7f425f369955bdd1c2ac122b">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.9_07177a3a79ff9709e9b8f6591d500217e172268c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/f6e5451da6f4ee95a14f8adc67da7afd5e685586/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="053bbcb650ce81938e89012a28c320c0091d79a3">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8159fdf0953da6e1d661c357077958112929518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_b1cb017af815c4d5926d9fb69fdaf58c6a539d5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_8381057026fdacfda722a33b0298301611a8060d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_4f62eaf06f506016f8749542defd6f02bf976c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/.android/build-cache/56d5efc1570ebfaca7bfacd9ee1ab0ea7e0dfee2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b33eef3adcda610ff1303fbc47a54d30bccd3bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90a0852991eab6632b2c5db178b65a6c2c63010a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0fc6a8a4d352117ced7496beda6f34d07374a508">
+        <dex dex="/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e5e88405632ee9780562a7ff5af2f0520fcec34a/classes.dex" />
+    </item>
+
+</items>
