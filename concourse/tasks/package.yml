@@ -1,6 +1,6 @@
 platform: linux
 
-image: docker:///runmymind/docker-android-sdk#android-21
+image: docker:///runmymind/docker-android-sdk#android-25
 
 inputs:
   - name: project-source
