@@ -1,17 +1,18 @@
 ---
-platform: darwin
+platform: linux
+
+image_resource:
+type: docker-image
+source:{repository: runmymind/docker-android-sdk}
 
 inputs:
-- name: ios-repo
+- name: android-repo
 
 outputs:
-- name: built-ios-app
+- name: built-android-app
 
 run:
-  path: sh
+ dir: android-repo
+  path: concourse/scripts/run-build-android-app.sh
   args:
-  - -exc
-  - |
-    ./ios-repo/mechanic/ci/tasks/run-plist-modification.sh
-    ./ios-repo/mechanic/ci/tasks/run-build-ios-app.sh
-    cp -v ios-repo/mechanic/build/*.ipa built-ios-app/
+   -false
