@@ -12,4 +12,4 @@ run:
   dir: android-repo
   path: concourse/scripts/run-build-android-app.sh
   args:
-   -false
+   - false
