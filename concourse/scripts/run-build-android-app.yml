@@ -1,0 +1,17 @@
+---
+platform: darwin
+
+inputs:
+- name: ios-repo
+
+outputs:
+- name: built-ios-app
+
+run:
+  path: sh
+  args:
+  - -exc
+  - |
+    ./ios-repo/mechanic/ci/tasks/run-plist-modification.sh
+    ./ios-repo/mechanic/ci/tasks/run-build-ios-app.sh
+    cp -v ios-repo/mechanic/build/*.ipa built-ios-app/
