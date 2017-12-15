@@ -8,11 +8,8 @@ source:{repository: runmymind/docker-android-sdk}
 inputs:
 - name: android-repo
 
-outputs:
-- name: built-android-app
-
 run:
- dir: android-repo
+  dir: android-repo
   path: concourse/scripts/run-build-android-app.sh
   args:
    -false
