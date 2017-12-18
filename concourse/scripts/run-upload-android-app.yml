@@ -2,7 +2,6 @@
 platform: linux
 
 inputs:
-- name: android-repo
 - name: built-android-app
 
 run:
