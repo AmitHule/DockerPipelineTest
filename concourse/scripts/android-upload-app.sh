@@ -4,8 +4,6 @@ pwd
 APK_FILEPATH="apk=@built-android-app/$APK_FILENAME"
 HOCKEY_REQUEST_HEADER="X-HockeyAppToken: $HOCKEY_APP_TOKEN"
 
-ls ../built-android-app
-
 response=$(curl \
   -F "status=2" \
   -F "notify=0" \
