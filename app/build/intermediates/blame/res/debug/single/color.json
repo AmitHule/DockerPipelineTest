@@ -1,106 +1,106 @@
 [
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
-        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/color/design_error.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
-        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
         "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_default.xml"
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_btn_colored_text_material.xml"
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/thinkservice/.android/build-cache/ad7f7e360a613d85c5d06a6c0cd72949ad9e8842/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/color/abc_primary_text_material_light.xml"
     }
 ]

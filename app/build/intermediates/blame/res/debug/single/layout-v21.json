@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

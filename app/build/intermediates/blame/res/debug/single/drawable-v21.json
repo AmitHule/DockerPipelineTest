@@ -1,34 +1,34 @@
 [
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-v21/design_password_eye.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/drawable-v21/notification_action_background.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-v21/avd_hide_password.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
         "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-v21/avd_show_password.xml"
     },
     {
-        "merged": "/Users/thinkservice/Documents/MechanicApp/git/thinkservice_android/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]
