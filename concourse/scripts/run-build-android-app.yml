@@ -15,7 +15,6 @@ run:
    - >-
 
 
-  #!/bin/bash
- ./gradlew build
-  args:
-   - false
+     #!/bin/bash
+     ./gradlew build
+ 
