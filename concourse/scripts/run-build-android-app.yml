@@ -12,7 +12,6 @@ outputs:
 - name: built-androiod-app
 
 run:
- path: sh
  dir: android-repo
  path: concourse/scripts/run-build-android-app.sh
  args:
