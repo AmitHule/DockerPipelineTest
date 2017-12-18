@@ -2,6 +2,6 @@
 
 ./gradlew build
 pwd
-chmod 777 ../built-androiod-app
+chmod 777 ../built-android-app
 cp app/build/outputs/apk/app-debug.apk ../built-android-app
 

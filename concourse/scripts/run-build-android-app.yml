@@ -9,7 +9,7 @@ inputs:
 - name: android-repo
 
 outputs:
-- name: built-androiod-app
+- name: built-android-app
 
 run:
  dir: android-repo
