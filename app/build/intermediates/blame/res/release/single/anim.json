@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/thinkservice/.android/build-cache/4bc016ece40201f1b7c8c0a82847f32877d47ad4/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

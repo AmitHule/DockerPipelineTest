@@ -1,0 +1,19 @@
+resources:
+  - name: android-repo
+    type: git
+    source:
+      uri: https://github.com/AmitHule/DockerPipelineTest.git
+      branch: master
+      username: amithule10@gmail.com
+      password: volks@1234
+
+
+
+
+jobs:
+  - name: assemble-debug
+    plan:
+      - get: android-repo
+        trigger: true
+      - task: run-build-android-app
+        file: android-repo/concourse/scripts/run-build-android-app.yml

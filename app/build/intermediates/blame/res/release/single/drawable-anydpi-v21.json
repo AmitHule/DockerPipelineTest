@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/thinkservice/.android/build-cache/0311c81f2d10c6f99b58c62a4299fa2955b838ae/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

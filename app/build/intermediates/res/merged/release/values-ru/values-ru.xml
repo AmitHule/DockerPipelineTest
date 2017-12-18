@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Обновление сервисов Google Play…"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="hockeyapp_crash_dialog_app_name_fallback">Это приложение</string>
+    <string name="hockeyapp_crash_dialog_message">Хотели бы вы отправить анонимный отчёт об ошибке, чтобы мы могли исправить проблему?</string>
+    <string name="hockeyapp_crash_dialog_negative_button">Не отправлять</string>
+    <string name="hockeyapp_crash_dialog_neutral_button">Всегда отправлять</string>
+    <string name="hockeyapp_crash_dialog_positive_button">Отправить отчёт</string>
+    <string name="hockeyapp_crash_dialog_title">%s неожиданно завершилось</string>
+    <string name="hockeyapp_dialog_error_message">Произошла ошибка</string>
+    <string name="hockeyapp_dialog_error_title">Ошибка</string>
+    <string name="hockeyapp_dialog_negative_button">Закрыть</string>
+    <string name="hockeyapp_dialog_positive_button">OK</string>
+    <string name="hockeyapp_download_failed_dialog_message">Обновление не может быть загружено. Попробуем снова?</string>
+    <string name="hockeyapp_download_failed_dialog_negative_button">Закрыть</string>
+    <string name="hockeyapp_download_failed_dialog_positive_button">Повтор</string>
+    <string name="hockeyapp_download_failed_dialog_title">Загрузка не удалась</string>
+    <string name="hockeyapp_error_no_network_message">Ваше устройство не имеет доступа в интернет. Пожалуйста, восстановите подключение и попробуйте снова.</string>
+    <string name="hockeyapp_expiry_info_text">%s истек. Пожалуйста, проверьте обновления HockeyApp.</string>
+    <string name="hockeyapp_expiry_info_title">Сборка истекла</string>
+    <string name="hockeyapp_feedback_attach_file">Прикрепить файл</string>
+    <string name="hockeyapp_feedback_attach_picture">Прикрепить изображение</string>
+    <string name="hockeyapp_feedback_attachment_button_text">Прикрепить файл</string>
+    <string name="hockeyapp_feedback_attachment_error">Ошибка</string>
+    <string name="hockeyapp_feedback_attachment_loading">Загрузка…</string>
+    <string name="hockeyapp_feedback_email_hint">Email</string>
+    <string name="hockeyapp_feedback_email_hint_required">Email (oбязательное поле)</string>
+    <string name="hockeyapp_feedback_failed_text">Вы хотите отправить отзыв снова?</string>
+    <string name="hockeyapp_feedback_failed_title">Ожидаем</string>
+    <string name="hockeyapp_feedback_fetching_feedback_text">Получение отзывов…</string>
+    <string name="hockeyapp_feedback_generic_error">Произошла ошибка</string>
+    <string name="hockeyapp_feedback_last_updated_text">Последнее обновление: %s</string>
+    <string name="hockeyapp_feedback_max_attachments_allowed">Количество вложений не может быть более чем %s</string>
+    <string name="hockeyapp_feedback_message_hint">Сообщение</string>
+    <string name="hockeyapp_feedback_message_hint_required">Сообщение (oбязательное поле)</string>
+    <string name="hockeyapp_feedback_name_hint">Имя</string>
+    <string name="hockeyapp_feedback_name_hint_required">Имя (Обязательное поле)</string>
+    <string name="hockeyapp_feedback_refresh_button_text">Обновить</string>
+    <string name="hockeyapp_feedback_response_button_text">Добавить ответ</string>
+    <string name="hockeyapp_feedback_select_file">Выбрать файл</string>
+    <string name="hockeyapp_feedback_select_picture">Выбрать изображение</string>
+    <string name="hockeyapp_feedback_send_button_text">Отправить отзыв</string>
+    <string name="hockeyapp_feedback_send_generic_error">Ошибка при отправлении сообщения. Пожалуйста, проверьте введённые вами значения, ваше интернет соединение и попробуйте снова.</string>
+    <string name="hockeyapp_feedback_send_network_error">Сервер не доступен. Пожалуйста, проверьте ваше интернет соединение и затем попробуйте снова.</string>
+    <string name="hockeyapp_feedback_sending_feedback_text">Отправка отзыва…</string>
+    <string name="hockeyapp_feedback_subject_hint">Тема</string>
+    <string name="hockeyapp_feedback_subject_hint_required">Тема (oбязательное поле)</string>
+    <string name="hockeyapp_feedback_title">Отзыв</string>
+    <string name="hockeyapp_feedback_validate_email_empty">Введите, пожалуйста, Email</string>
+    <string name="hockeyapp_feedback_validate_email_error">Введите, пожалуйста действующий Email адрес</string>
+    <string name="hockeyapp_feedback_validate_name_error">Введите, пожалуйста Имя</string>
+    <string name="hockeyapp_feedback_validate_subject_error">Введите, пожалуйста, Тему</string>
+    <string name="hockeyapp_feedback_validate_text_error">Сообщение не может быть отправлено. Пожалуйста, введите текст отзыва.</string>
+    <string name="hockeyapp_login_email_hint">Email</string>
+    <string name="hockeyapp_login_email_hint_required">Email (oбязательное поле)</string>
+    <string name="hockeyapp_login_headline_text">Пожалуйста, введите ваш HockeyApp email адресс и пароль для получения доступа в это приложение.</string>
+    <string name="hockeyapp_login_headline_text_email_only">Пожалуйста, введите ваш HockeyApp email адресс для получения доступа в это приложение.</string>
+    <string name="hockeyapp_login_login_button_text">Логин</string>
+    <string name="hockeyapp_login_missing_credentials_toast">Пожалуйста, заполните недостающие учётные данные.</string>
+    <string name="hockeyapp_login_password_hint">Пароль</string>
+    <string name="hockeyapp_login_password_hint_required">Пароль (oбязательное поле)</string>
+    <string name="hockeyapp_paint_dialog_message">Вы хотите сохранить ваш рисунок?</string>
+    <string name="hockeyapp_paint_dialog_negative_button">Выбросить</string>
+    <string name="hockeyapp_paint_dialog_neutral_button">Закрыть</string>
+    <string name="hockeyapp_paint_dialog_positive_button">Сохранить</string>
+    <string name="hockeyapp_paint_indicator_toast">Нарисуйте что нибудь!</string>
+    <string name="hockeyapp_paint_menu_clear">Стереть</string>
+    <string name="hockeyapp_paint_menu_save">Сохранить</string>
+    <string name="hockeyapp_paint_menu_undo">Отмена</string>
+    <string name="hockeyapp_permission_dialog_negative_button">Закрыть</string>
+    <string name="hockeyapp_permission_dialog_positive_button">Повторить</string>
+    <string name="hockeyapp_permission_update_message">Во время загрузки и установки приложения вы должны предоставить доступ к хранилищу данных.</string>
+    <string name="hockeyapp_permission_update_title">Нужен доступ к хранилищу данных</string>
+    <string name="hockeyapp_update_button">Обновить</string>
+    <string name="hockeyapp_update_dialog_message">Показывать информацию о доступных обновлениях?</string>
+    <string name="hockeyapp_update_dialog_negative_button">Игнорировать</string>
+    <string name="hockeyapp_update_dialog_positive_button">Показать</string>
+    <string name="hockeyapp_update_dialog_title">Доступно обновление</string>
+    <string name="hockeyapp_update_mandatory_toast">%s доступен и является обязательным для обновления!</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+</resources>

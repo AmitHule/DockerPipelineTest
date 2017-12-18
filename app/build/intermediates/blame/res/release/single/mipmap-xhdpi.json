@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/thinkservice/Desktop/sampleconcourseandroid/DockerPipelineTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
