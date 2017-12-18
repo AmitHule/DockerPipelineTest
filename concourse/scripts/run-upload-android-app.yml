@@ -1,6 +1,3 @@
----
-platform: linux
-
 inputs:
 - name: built-android-app
 
