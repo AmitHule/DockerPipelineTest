@@ -1,5 +1,5 @@
 #!/bin/sh -e
 pwd
-cd ./android-repo/concourse
+cd /concourse
 
 ./gradlew build
