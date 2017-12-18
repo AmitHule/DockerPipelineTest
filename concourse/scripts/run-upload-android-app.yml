@@ -1,1 +1,13 @@
+platform: linux
+
+inputs:
+- name: android-repo
+- name: built-android-app
+
+run:
+ dir: android-repo
+ path: concourse/scripts/android-upload-app.sh
+ args:
+     - false
+
 
