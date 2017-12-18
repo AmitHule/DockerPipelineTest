@@ -8,7 +8,6 @@ response=$(curl -i -o \
   -F "status=2" \
   -F "notify=0" \
   -F "notes= test" \
-  -F "notes_type=0" \
   -F "mandatory=0" \
   -F "$APK_FILEPATH" \
   -H "$HOCKEY_REQUEST_HEADER" \
