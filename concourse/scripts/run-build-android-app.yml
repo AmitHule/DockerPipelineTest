@@ -13,7 +13,6 @@ outputs:
 
 run:
  dir: android-repo
- trigger: true
  path: concourse/scripts/run-build-android-app.sh
  args:
      - false
