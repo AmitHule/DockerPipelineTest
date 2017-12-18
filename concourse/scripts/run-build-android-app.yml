@@ -11,9 +11,11 @@ inputs:
 outputs:
 - name: built-androiod-app
 
-run:
- dir: android-repo
- path: concourse/scripts/run-build-android-app.sh
- args:
-     - false
+jobs:
+  - name: assemble-debug
+    plan:
+     - task: assemble
+            run:
+            dir: android-repo
+            path: concourse/scripts/run-build-android-app.sh
  
