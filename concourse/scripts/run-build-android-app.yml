@@ -9,7 +9,13 @@ inputs:
 - name: android-repo
 
 run:
-  dir: android-repo
-  path: concourse/scripts/run-build-android-app.sh
+ path: sh
+ args:
+   - -euxc
+   - >-
+
+
+  #!/bin/bash
+ ./gradlew build
   args:
    - false
