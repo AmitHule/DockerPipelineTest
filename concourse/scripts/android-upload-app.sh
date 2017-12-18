@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 pwd
 
-APK_FILEPATH="apk=@built-android-app/$APK_FILENAME"
+APK_FILEPATH="ipa=@built-android-app/$APK_FILENAME"
 HOCKEY_REQUEST_HEADER="X-HockeyAppToken: $HOCKEY_APP_TOKEN"
 
 response=$(curl \
