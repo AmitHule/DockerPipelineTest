@@ -15,5 +15,8 @@ response=$(curl \
 https://rink.hockeyapp.net/api/2/apps/upload)
 
 if ! [[ "$response" == *"created_at"* ]]; then
+- debug:
+    msg: "Responseeeeeeeee {{ response }} "
+
 	exit 1
 fi
