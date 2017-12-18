@@ -1,8 +1,16 @@
-#!/bin/bash
+---
+platform: linux
 
-set -e
-export TERM=dumb # needed for Gradle: https://issues.gradle.org/browse/GRADLE-2634
+image_resource:
+  type: docker-image
+  source: {repository: runmymind/docker-android-sdk}
 
-pushd github
-./gradlew test
-popd
+inputs:
+- name: android-repo
+
+run:
+ dir: android-repo
+ path: concourse/scripts/run-test-android-app.sh
+ args:
+     - false
+ 
