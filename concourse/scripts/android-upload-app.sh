@@ -2,7 +2,7 @@
 pwd
 
 APK_FILEPATH="ipa=@../built-android-app/$APK_FILENAME"
-HOCKEY_REQUEST_HEADER="X-HockeyAppToken: $HOCKEY_APP_TOKEN"
+HOCKEY_REQUEST_HEADER="X-HockeyAppToken:1e830361980b49e5b92d736dd1976c2c"
 
 response=$(curl \
   -F "status=2" \
