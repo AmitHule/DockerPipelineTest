@@ -14,8 +14,7 @@ outputs:
 jobs:
   - name: assemble-debug
     plan:
-     - task: assemble
-            run:
-            dir: android-repo
-            path: concourse/scripts/run-build-android-app.sh
+       run:
+       dir: android-repo
+       path: concourse/scripts/run-build-android-app.sh
  
