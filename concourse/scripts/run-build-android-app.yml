@@ -8,6 +8,9 @@ image_resource:
 inputs:
 - name: android-repo
 
+outputs:
+- name: built-androiod-app
+
 run:
  path: sh
  args:
